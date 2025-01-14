@@ -8,9 +8,9 @@ Throughout this session, we will cover key machine learning concepts, including 
 
 - [Objectives](#objectives)
 - [Syllebus](#syllebus-)
-- [Instructors](#instructors)
+- [Instructors](#instructors-)
 - [Practice Labs](#practice-labs-)
-- [Requirements](#reqiremets)
+- [Requirements](#requirements)
 - [Contact Us](#contact)
 
 ## Objectives:
@@ -156,7 +156,7 @@ you can install the libraries using :
 pip install -r requirement.txt
 ```
 
-## Contact :
+## Contact
 
 **ECAST :** ecast@tcioe.edu.np  
 **Tensor :** tensor@tcioe.edu.np
